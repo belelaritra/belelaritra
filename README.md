@@ -1,6 +1,6 @@
 ## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra)
 
-- 🎓 Persuing B.Tech (Hons.) in Computer Science & Engineering
+- 🎓 Persuing B.Tech in Computer Science & Engineering
 - 📖 Currently learning CPP & Python
 - 💻 Want to be a good Competative Programmer
 

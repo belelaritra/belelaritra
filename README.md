@@ -15,9 +15,9 @@
 </br>
 
 
-### **Connect with me:** </br>
-[<img align="left" alt="Facebook" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7) 
-[<img align="left" alt="Instagram" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)
-
+### **Connect with me:**
+[<img align="top" alt="Facebook" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7) <br>
+[<img align="top" alt="Instagram" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)
+</br>
 
 ![Aritra Belel's Github Stats](https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true)

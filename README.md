@@ -1,6 +1,8 @@
 ## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
+<img align="right" width="31%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
+
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> I'm currently persuing B.Tech in Computer Science & Engineering
 - <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm Currently learning CPP & Python
 - <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px"> I want to be a good Competative Programmer

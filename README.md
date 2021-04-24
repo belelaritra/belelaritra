@@ -24,7 +24,7 @@
 <details open>
   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> My Github Stats:</b></summary>
 <br>
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width ="45%"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
+<p align="left"> <img  src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width ="45%"/> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
  </p>
 
 </details>

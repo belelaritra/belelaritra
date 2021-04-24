@@ -1,7 +1,7 @@
 ## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width="40%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width="42%"/>
 
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> I'm currently persuing B.Tech in Computer Science & Engineering
 - <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm Currently learning CPP & Python

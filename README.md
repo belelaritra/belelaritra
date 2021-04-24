@@ -1,10 +1,16 @@
 ## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> Persuing B.Tech in Computer Science & Engineering
-- <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> Currently learning CPP & Python
-- <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px"> Want to be a good Competative Programmer
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width="40%"/>
+
+- <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> I'm currently persuing B.Tech in Computer Science & Engineering
+- <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm Currently learning CPP & Python
+- <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px"> I want to be a good Competative Programmer
+</div>
 
 ### **Languages & Tools:**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="30%"/>
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />](https://github.com/belelaritra/C_Programming)
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />](https://github.com/belelaritra/CPP_Programming)
@@ -18,5 +24,3 @@
 ### **Connect with me:**
 [<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)
 </br>
-
-![Aritra Belel's Github Stats](https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true)

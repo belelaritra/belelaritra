@@ -16,7 +16,7 @@
 
 
 ### **Connect with me:**
-[<img align="top" alt="Facebook" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7) <br>
+[<img align="top" alt="Facebook" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)
 [<img align="top" alt="Instagram" width="30px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)
 </br>
 

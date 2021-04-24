@@ -6,10 +6,11 @@
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> I'm currently persuing B.Tech in Computer Science & Engineering
 - <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm Currently learning CPP & Python
 - <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px"> I want to be a good Competative Programmer
+
 </div>
 
 ### **Languages & Tools:**
-
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="30%"/>
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />](https://github.com/belelaritra/C_Programming)
@@ -18,7 +19,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://coursera.org/share/f44c307c882ca67bf2e9f88254d5d441)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://coursera.org/share/12df9a30107954bca2cc45f79f2a6c6b)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>](https://coursera.org/share/12df9a30107954bca2cc45f79f2a6c6b)
-</br>
+
+</div>
 
 
 ### **Connect with me:**

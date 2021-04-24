@@ -4,7 +4,7 @@
 <img align="right" width="31%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> I'm currently persuing B.Tech in Computer Science & Engineering
-- <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm Currently learning CPP & Python
+- <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> I'm currently learning CPP & Python
 - <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px"> I want to be a good Competative Programmer
 
 
@@ -19,14 +19,14 @@
 </br>
 
 ### **Connect with me:**
-[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)
+[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)  [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/aritra-belel-607409210)
 </br>
 ##
 
 <details open>
   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> My Github Stats:</b></summary>
 <br>
-<p> <img  src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width ="45%"/> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=stars,prs&count_private=true" width ="45%"/> <img align="centre"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
  </p>
 
 </details>

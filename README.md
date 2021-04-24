@@ -10,7 +10,7 @@
 </div>
 
 ### **Languages & Tools:**
-<div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="30%"/>
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />](https://github.com/belelaritra/C_Programming)
@@ -19,9 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://coursera.org/share/f44c307c882ca67bf2e9f88254d5d441)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://coursera.org/share/12df9a30107954bca2cc45f79f2a6c6b)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>](https://coursera.org/share/12df9a30107954bca2cc45f79f2a6c6b)
-
-</div>
-
+</br>
 
 ### **Connect with me:**
 [<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)

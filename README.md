@@ -19,7 +19,7 @@
 </br>
 
 ### **Connect with me:**
-[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="38px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)  [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/aritra-belel-607409210)
+[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="38px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)  [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/belelaritra)
 </br>
 ##
 

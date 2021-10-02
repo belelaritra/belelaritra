@@ -16,14 +16,18 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Solidity" width="26px" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99" />
 <img alt="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />  
 
-<img align="left" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />
+
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>  
+<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
+<img align="left" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />
 </br>
 
 ### **Connect with me:**
-[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritra.belel.7)  [<img align="top" alt="Instagram" width="38px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)  [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/belelaritra)
+[<img align="top" alt="Facebook" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" />](https://www.facebook.com/aritrabelel2001)  [<img align="top" alt="Instagram" width="38px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belel.aritra/?hl=en)  [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/belelaritra)
 </br>
 ##
 

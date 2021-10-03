@@ -34,8 +34,8 @@
 <details open>
   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> My Github Stats:</b></summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=outrun&hide=issues&count_private=true" width ="50%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="42%"/>
 
 </details>
 

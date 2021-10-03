@@ -44,6 +44,6 @@
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/belelaritra/W-ambulance/pull/1) in [belelaritra/W-ambulance](https://github.com/belelaritra/W-ambulance)
-  
+2. ❌ Closed PR [#1](https://github.com/belelaritra/belelaritra/pull/1) in [belelaritra/belelaritra](https://github.com/belelaritra/belelaritra)
 <!--END_SECTION:activity-->
   </details>

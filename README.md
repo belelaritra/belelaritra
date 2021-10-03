@@ -38,3 +38,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=radical&layout=compact" width ="40%"/>
 
 </details>
+
+<details open>
+  <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary>
+<!--START_SECTION:activity-->
+  
+  </details>

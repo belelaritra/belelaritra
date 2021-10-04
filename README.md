@@ -54,7 +54,7 @@
   <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/belelaritra/W-ambulance/pull/1) in [belelaritra/W-ambulance](https://github.com/belelaritra/W-ambulance)
-2. ❌ Closed PR [#1](https://github.com/belelaritra/belelaritra/pull/1) in [belelaritra/belelaritra](https://github.com/belelaritra/belelaritra)
+1. 🗣 Commented on [#9](https://github.com/aritrakrbasu/Hack-Codes/issues/9) in [aritrakrbasu/Hack-Codes](https://github.com/aritrakrbasu/Hack-Codes)
+2. ❌ Closed PR [#1](https://github.com/belelaritra/W-ambulance/pull/1) in [belelaritra/W-ambulance](https://github.com/belelaritra/W-ambulance)
 <!--END_SECTION:activity-->
   </details>

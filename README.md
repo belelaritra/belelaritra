@@ -1,6 +1,6 @@
 ## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=belelaritra)
+![](https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=green)
 <img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> Pursuing B.Tech in Computer Science & Engineering

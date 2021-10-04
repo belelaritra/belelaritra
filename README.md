@@ -1,6 +1,13 @@
 ## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=green)
+
+[![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
+[![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
+[![Twitter Badge](http://img.shields.io/badge/-@belel_aritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belel_aritra)](https://twitter.com/belel_aritra)
+[![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/)
+[![GitHub followers](https://img.shields.io/github/followers/belelaritra?label=Follow&style=social)](https://github.com/belelaritra/?tab=follow)
+<img align="right" src="https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=green"/>
+<br>
 <img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
 - <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> Pursuing B.Tech in Computer Science & Engineering

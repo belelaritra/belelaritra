@@ -65,10 +65,10 @@
 8. 🗣 Commented on [#16](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/16) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 9. 🗣 Commented on [#29](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/29) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 10. 🗣 Commented on [#61](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/61) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-  
-  
-  
-  
-  
+11. 🗣 Commented on [#101](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/101) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+12. ❗️ Opened issue [#101](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/101) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+13. 💪 Opened PR [#78](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/78) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+14. 🗣 Commented on [#63](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/63) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+15. 💪 Opened PR [#59](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/59) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
   </details>

@@ -57,12 +57,12 @@
 1. 💪 Opened PR [#52](https://github.com/aritrakrbasu/Hack-Codes/pull/52) in [aritrakrbasu/Hack-Codes](https://github.com/aritrakrbasu/Hack-Codes)
 2. 🗣 Commented on [#9](https://github.com/aritrakrbasu/Hack-Codes/issues/9) in [aritrakrbasu/Hack-Codes](https://github.com/aritrakrbasu/Hack-Codes)
 
-  
-  
-  
-  
-  
-  
-  
+3. ❌ Closed PR [#1](https://github.com/belelaritra/W-ambulance/pull/1) in [belelaritra/W-ambulance](https://github.com/belelaritra/W-ambulance)
+4. ❌ Closed PR [#1](https://github.com/belelaritra/belelaritra/pull/1) in [belelaritra/belelaritra](https://github.com/belelaritra/belelaritra)
+5. 💪 Opened PR [#132](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/132) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+6. 🗣 Commented on [#126](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/126) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+7. 🗣 Commented on [#125](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/125) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+8. 🗣 Commented on [#16](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/16) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+9. 🗣 Commented on [#29](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/29) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
   </details>

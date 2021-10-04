@@ -56,5 +56,13 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#52](https://github.com/aritrakrbasu/Hack-Codes/pull/52) in [aritrakrbasu/Hack-Codes](https://github.com/aritrakrbasu/Hack-Codes)
 2. 🗣 Commented on [#9](https://github.com/aritrakrbasu/Hack-Codes/issues/9) in [aritrakrbasu/Hack-Codes](https://github.com/aritrakrbasu/Hack-Codes)
+
+  
+  
+  
+  
+  
+  
+  
 <!--END_SECTION:activity-->
   </details>

@@ -64,7 +64,7 @@
 7. 🗣 Commented on [#125](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/125) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 8. 🗣 Commented on [#16](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/16) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 9. 🗣 Commented on [#29](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/29) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-  
+10. 🗣 Commented on [#61](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/61) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
   
   
   

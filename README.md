@@ -10,9 +10,8 @@
 <br>
 
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python">
-<img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
-
+ <a href"https://github.com/belelaritra"><img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python" /></a>
+<a href="https://github.com/belelaritra"><img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 
 ### **Languages & Tools:**

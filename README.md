@@ -16,14 +16,14 @@
 ### **Languages & Tools:**
 
 <p align = "left">
-<a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/></a>
+<a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="24px"/></a>
 <a href="https://isocpp.org/"><img alt="Cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25px"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px"/></a>
-<a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25px"/></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="24px"/></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px"/></a>
+<a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24px"/></a>
 <!-- <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> -->
-<a href="https://docs.soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="25px"/></a>
+<a href="https://docs.soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="24px"/></a>
 </p>
 
 <p align = "left">

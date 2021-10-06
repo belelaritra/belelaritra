@@ -10,10 +10,8 @@
 <br>
 <img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
-- <img src="https://media1.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="30px"> Pursuing B.Tech in Computer Science & Engineering
-- <img src="https://thumbs.gfycat.com/RaggedGoldenJoey-max-1mb.gif" width="30px"> Learning CPP & Python
-- <img src="https://media4.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="20px">  &nbsp;  Wanna be a good Competitive Programmer
 
+ <img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python">
 
 ### **Languages & Tools:**
 
@@ -26,11 +24,12 @@
 <img align="left" alt="Solidity" width="26px" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99" />
 <img alt="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />  
 
-
+<p align="left">
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>  
 <img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
 <img align="left" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />
+</p>
 </br>
 
 ### **Connect with me:**
@@ -38,10 +37,23 @@
 [<img align="top" alt="Instagram" width="38px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/belelaritra/?hl=en)
 [<img align="top" alt="LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />](https://www.linkedin.com/in/belelaritra)
 </br>
-##
+
+## 
 
 <details open>
-  <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> Github Stats:</b></summary>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>Top Repo's I've contributed to :</b></summary>
+<br>
+<p align="left">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smart-worker&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aritrakrbasu&repo=Hacktoberfest-Hack-Codes&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats">
+ </p>
+    </details>
+    
+## 
+
+<details open>
+  <summary><img align="bottom" src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width="18px">&nbsp;<b>Github Stats:</b></summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="42%"/>
@@ -50,8 +62,21 @@
   </p>
 </details>
 
+## 
+
+<details open>
+   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> Activity Graph: </b></summary>
+ <br>
+<p align="center">
+  <img alt="Aritra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=belelaritra&bg_color=000000&color=7DFE02&line=08ACFD&point=FFFFFF" width="80%"/>
+</p>
+</details>
+
+##
+
 <details open>
   <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary>
+ 
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#191](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/191) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
@@ -68,3 +93,4 @@
 
 <!--END_SECTION:activity-->
   </details>
+  

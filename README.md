@@ -8,10 +8,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/belelaritra?label=Follow&style=social)](https://github.com/belelaritra/?tab=follow)
 <img align="right" src="https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=green"/>
 <br>
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python">
 <img align="right" width="30%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
-
- <img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python">
+</p>
 
 ### **Languages & Tools:**
 

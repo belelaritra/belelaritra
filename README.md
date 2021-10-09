@@ -1,4 +1,4 @@
-## Hi ! I'm [**ARITRA BELEL** ](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
@@ -140,4 +140,4 @@
 10. 🗣 Commented on [#126](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/126) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 
 <!--END_SECTION:activity-->
-  </details>
+ </details>

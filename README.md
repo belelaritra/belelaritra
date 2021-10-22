@@ -106,7 +106,7 @@
 <a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> </a>
 <a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="42%"/></a>
 <p align="center">
-  <a href="https://github.com/belelaritra"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=belelaritra&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" width="50%"/></a>
+  <a href="https://github.com/belelaritra"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=belelaritra&theme=chartreuse-dark" width="50%"/></a>
   </p>
 </details>
 

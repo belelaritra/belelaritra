@@ -1,4 +1,4 @@
-## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"50
+## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel_aritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belel_aritra)](https://twitter.com/belel_aritra)

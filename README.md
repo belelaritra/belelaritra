@@ -1,5 +1,4 @@
-## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"50
 [![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel_aritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belel_aritra)](https://twitter.com/belel_aritra)
@@ -71,9 +70,9 @@
   <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>Top Repo's I've contributed to :</b></summary>
 <br>
 <p align="left">
-  <a href="https://github.com/smart-worker/HackNPitch_Quasar_DCampus"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smart-worker&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aritrakrbasu&repo=Hacktoberfest-Hack-Codes&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/smart-worker/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smart-worker&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aritrakrbasu&repo=Hacktoberfest-Hack-Codes&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
  </p>
     </details>
 
@@ -91,9 +90,9 @@
   <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>My Top Repos :</b></summary>
 <br>
 <p align="left">
- <a href="https://github.com/belelaritra/W-ambulance"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=W-ambulance&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/belelaritra/HackerRank_Contest_Scraper"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=HackerRank_Contest_Scraper&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/belelaritra/Belco"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Belco&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+ <a href="https://github.com/belelaritra/W-ambulance"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=W-ambulance&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/belelaritra/HackerRank_Contest_Scraper"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=HackerRank_Contest_Scraper&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/belelaritra/Belco"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Belco&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 <!--   <a href="https://github.com/belelaritra/Neumorphic_Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Neumorphic_Calculator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a> -->
  </p>
     </details>

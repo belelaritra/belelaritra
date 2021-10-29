@@ -126,16 +126,16 @@
  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/issues/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-2. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+1. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+2. 🗣 Commented on [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/issues/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
 
-3. 💪 Opened PR [#128](https://github.com/LoginRadius/engineering-blog-samples/pull/128) in [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples)
-4. 💪 Opened PR [#849](https://github.com/LoginRadius/engineering-portal/pull/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-5. 💪 Opened PR [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-6. ❌ Closed PR [#607](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/607) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-7. 💪 Opened PR [#607](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/607) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-8. 💪 Opened PR [#191](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/191) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-9. 🗣 Commented on [#181](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/181) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+3. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+4. 💪 Opened PR [#128](https://github.com/LoginRadius/engineering-blog-samples/pull/128) in [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples)
+5. 💪 Opened PR [#849](https://github.com/LoginRadius/engineering-portal/pull/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+6. 💪 Opened PR [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+7. ❌ Closed PR [#607](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/607) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+8. 💪 Opened PR [#607](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/607) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+9. 💪 Opened PR [#191](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/191) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 10. 🗣 Commented on [#181](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/181) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 
 <!--END_SECTION:activity-->

@@ -132,11 +132,11 @@
 3. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 4. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 5. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-6. 🗣 Commented on [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/issues/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-7. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-8. 💪 Opened PR [#128](https://github.com/LoginRadius/engineering-blog-samples/pull/128) in [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples)
-9. 💪 Opened PR [#849](https://github.com/LoginRadius/engineering-portal/pull/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-10. 💪 Opened PR [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+6. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+7. 🗣 Commented on [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/issues/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+8. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+9. 💪 Opened PR [#128](https://github.com/LoginRadius/engineering-blog-samples/pull/128) in [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples)
+10. 💪 Opened PR [#849](https://github.com/LoginRadius/engineering-portal/pull/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 
 <!--END_SECTION:activity-->
  </details>

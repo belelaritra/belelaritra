@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel%5Faritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belel_aritra)](https://twitter.com/belel_aritra)
 [![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/)
-[![Instagram Badge](https://img.shields.io/badge/-Aritra%20Belel-red?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)](https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)
+[![Youtube Badge](https://img.shields.io/badge/-Aritra%20Belel-red?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)](https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)
 [![GitHub followers](https://img.shields.io/github/followers/belelaritra?label=Follow&style=social)](https://github.com/belelaritra/?tab=follow)
 <a href="https://github.com/belelaritra"><img align="right" src="https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=brightgreen"/></a>
 <br>
@@ -63,7 +63,7 @@
 <a href="https://twitter.com/belel_aritra"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="24px"/></a>
  <a href="https://www.facebook.com/aritrabelel2001"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24px"/></a>
  <a href="https://www.instagram.com/belelaritra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24px"/></a>
-  <a href="https://www.instagram.com/belelaritra/"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24px"/></a>
+  <a href="https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24px"/></a>
  <p>
 
 ##

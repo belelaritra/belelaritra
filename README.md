@@ -128,16 +128,16 @@
  
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/belelaritra/Neumorphic_Calculator/pull/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-2. 🗣 Commented on [#1](https://github.com/belelaritra/Neumorphic_Calculator/issues/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+1. 🎉 Merged PR [#2](https://github.com/belelaritra/Neumorphic_Calculator/pull/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+2. 🗣 Commented on [#2](https://github.com/belelaritra/Neumorphic_Calculator/issues/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
 
-3. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-4. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+3. 🎉 Merged PR [#1](https://github.com/belelaritra/Neumorphic_Calculator/pull/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+4. 🗣 Commented on [#1](https://github.com/belelaritra/Neumorphic_Calculator/issues/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
 5. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 6. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 7. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 8. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-9. 🗣 Commented on [#629](https://github.com/codedamn/codedamn-hacktoberfest-projects/issues/629) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+9. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 10. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 
 <!--END_SECTION:activity-->

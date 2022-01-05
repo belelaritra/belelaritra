@@ -72,7 +72,7 @@
   <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>Top Repo's I've contributed to :</b></summary>
 <br>
 <p align="left">
-  <a href="https://github.com/smart-worker/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smart-worker&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/quasar-rcciit/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quasar-rccii&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aritrakrbasu&repo=Hacktoberfest-Hack-Codes&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
  </p>

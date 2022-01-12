@@ -16,25 +16,25 @@
 ### <img align="bottom" src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width="18px"/> **Languages & Tools:**
 
 <p align = "left">
-<a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="24px"/></a>
+<a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/></a>
 <a href="https://isocpp.org/"><img alt="Cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="24px"/></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24px"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24px"/></a>
-<a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24px"/></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25px"/></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px"/></a>
+<!-- <a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24px"/></a> -->
 <!-- <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> -->
-<a href="https://docs.soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="24px"/></a>
+<a href="https://docs.soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="25px"/></a>
 </p>
 
 <p align = "left">
-<a href="https://git-scm.com/"><img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24px"/></a>
-<a href="https://docs.conda.io/en/latest/"><img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="24px"/></a>
- <a href="https://code.visualstudio.com/"><img alt="VS CODE" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" height="24px"/></a>
+<a href="https://git-scm.com/"><img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/></a>
+<a href="https://docs.conda.io/en/latest/"><img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25px"/></a>
+ <a href="https://code.visualstudio.com/"><img alt="VS CODE" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" height="25px"/></a>
+<!--  <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="24px"/></a> -->
 <!-- <a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a> -->
-<a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="24px"/></a>
- <a href="https://jupyter.org/"><img alt="Conda" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="24px"/></a>
- <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="24px"/></a>
- <a href="https://ethereum.org/en/"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" height="24px"/></a>
+<!-- <a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="24px"/></a> -->
+ <a href="https://ethereum.org/en/"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" height="25px"/></a>
+ <a href="https://www.djangoproject.com/"><img alt="django" src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25px"/></a>
 </p>
 
 <!-- <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />

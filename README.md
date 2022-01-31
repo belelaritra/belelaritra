@@ -138,17 +138,17 @@
  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/7saikat7/supply_chain/issues/1) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
-2. 🎉 Merged PR [#4](https://github.com/belelaritra/Neumorphic_Calculator/pull/4) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+1. 🎉 Merged PR [#36](https://github.com/belelaritra/Gurukul/pull/36) in [belelaritra/Gurukul](https://github.com/belelaritra/Gurukul)
+2. 💪 Opened PR [#36](https://github.com/belelaritra/Gurukul/pull/36) in [belelaritra/Gurukul](https://github.com/belelaritra/Gurukul)
 
-3. 🎉 Merged PR [#3](https://github.com/belelaritra/Neumorphic_Calculator/pull/3) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-4. 🗣 Commented on [#3](https://github.com/belelaritra/Neumorphic_Calculator/issues/3) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-5. 🎉 Merged PR [#2](https://github.com/belelaritra/Neumorphic_Calculator/pull/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-6. 🗣 Commented on [#2](https://github.com/belelaritra/Neumorphic_Calculator/issues/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-7. 🎉 Merged PR [#1](https://github.com/belelaritra/Neumorphic_Calculator/pull/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-8. 🗣 Commented on [#1](https://github.com/belelaritra/Neumorphic_Calculator/issues/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
-9. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-10. 🗣 Commented on [#849](https://github.com/LoginRadius/engineering-portal/issues/849) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+3. 🗣 Commented on [#1](https://github.com/7saikat7/supply_chain/issues/1) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
+4. 🎉 Merged PR [#4](https://github.com/belelaritra/Neumorphic_Calculator/pull/4) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+5. 🎉 Merged PR [#3](https://github.com/belelaritra/Neumorphic_Calculator/pull/3) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+6. 🗣 Commented on [#3](https://github.com/belelaritra/Neumorphic_Calculator/issues/3) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+7. 🎉 Merged PR [#2](https://github.com/belelaritra/Neumorphic_Calculator/pull/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+8. 🗣 Commented on [#2](https://github.com/belelaritra/Neumorphic_Calculator/issues/2) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+9. 🎉 Merged PR [#1](https://github.com/belelaritra/Neumorphic_Calculator/pull/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
+10. 🗣 Commented on [#1](https://github.com/belelaritra/Neumorphic_Calculator/issues/1) in [belelaritra/Neumorphic_Calculator](https://github.com/belelaritra/Neumorphic_Calculator)
 
 <!--END_SECTION:activity-->
  </details>

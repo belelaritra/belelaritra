@@ -99,6 +99,16 @@
  </p>
     </details>
   
+ <details open>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>College Projects :</b></summary>
+<br>
+<p align="left">
+  <a href="https://github.com/belelaritra/Gurukul"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Gurukul&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/belelaritra/Periodic-table"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Periodic-table&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  
+ </p>
+    </details>
+  
 ##
 
 <details open>

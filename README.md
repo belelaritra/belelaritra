@@ -138,17 +138,17 @@
  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-2. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
+1. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
+2. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
 
-3. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-4. 💪 Opened PR [#21](https://github.com/theblockchainchief/web3-hub/pull/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-5. 💪 Opened PR [#23](https://github.com/7saikat7/supply_chain/pull/23) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
-6. 🗣 Commented on [#10](https://github.com/theblockchainchief/web3-hub/issues/10) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-7. 🗣 Commented on [#2](https://github.com/7saikat7/supply_chain/issues/2) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
-8. 🗣 Commented on [#1](https://github.com/7saikat7/supply_chain/issues/1) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
-9. 🎉 Merged PR [#36](https://github.com/belelaritra/Gurukul/pull/36) in [belelaritra/Gurukul](https://github.com/belelaritra/Gurukul)
-10. 💪 Opened PR [#36](https://github.com/belelaritra/Gurukul/pull/36) in [belelaritra/Gurukul](https://github.com/belelaritra/Gurukul)
+3. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
+4. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+5. 💪 Opened PR [#21](https://github.com/theblockchainchief/web3-hub/pull/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+6. 💪 Opened PR [#23](https://github.com/7saikat7/supply_chain/pull/23) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
+7. 🗣 Commented on [#10](https://github.com/theblockchainchief/web3-hub/issues/10) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+8. 🗣 Commented on [#2](https://github.com/7saikat7/supply_chain/issues/2) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
+9. 🗣 Commented on [#1](https://github.com/7saikat7/supply_chain/issues/1) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
+10. 🎉 Merged PR [#36](https://github.com/belelaritra/Gurukul/pull/36) in [belelaritra/Gurukul](https://github.com/belelaritra/Gurukul)
 
 <!--END_SECTION:activity-->
  </details>

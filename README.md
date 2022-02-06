@@ -132,7 +132,6 @@
 </details>
 
 
-<!-- <details >
-  <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary> -->
- <!--START_SECTION:activity --><!--END_SECTION:activity--> -->
+<!-- <details > <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary> -->
+ <!--START_SECTION:activity --><!--END_SECTION:activity-->
 <!--  </details>  -->

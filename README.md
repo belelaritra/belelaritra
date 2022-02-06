@@ -138,7 +138,7 @@
   -->
   
 <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#27](https://github.com/neelshah2409/Bot-Collection/issues/27) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
+1. 🗣 Commented on [#27](https://github.com/neelshah2409/Bot-Collection/issues/27) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
 2. 💪 Opened PR [#27](https://github.com/neelshah2409/Bot-Collection/pull/27) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
 
 3. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)

@@ -131,26 +131,8 @@
 </p>
 </details>
 
-<!-- ##
 
-<details >
-  <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary>
-  -->
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/neelshah2409/Bot-Collection/issues/27) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
-2. 💪 Opened PR [#27](https://github.com/neelshah2409/Bot-Collection/pull/27) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
-
-3. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
-4. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-5. 🗣 Commented on [#16](https://github.com/neelshah2409/Bot-Collection/issues/16) in [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection)
-6. 🗣 Commented on [#21](https://github.com/theblockchainchief/web3-hub/issues/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-7. 💪 Opened PR [#21](https://github.com/theblockchainchief/web3-hub/pull/21) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-8. 💪 Opened PR [#23](https://github.com/7saikat7/supply_chain/pull/23) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
-9. 🗣 Commented on [#10](https://github.com/theblockchainchief/web3-hub/issues/10) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-10. 🗣 Commented on [#2](https://github.com/7saikat7/supply_chain/issues/2) in [7saikat7/supply_chain](https://github.com/7saikat7/supply_chain)
- -->
-<!--END_SECTION:activity-->
-<!--  </details> -->
-  
-  
+<!-- <details >
+  <summary><b><img align="bottom" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="25px"> Recent Activity: </b></summary> -->
+ <!--START_SECTION:activity --><!--END_SECTION:activity--> -->
+<!--  </details>  -->

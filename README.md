@@ -72,9 +72,11 @@
   <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>Top Repo's I've contributed to :</b></summary>
 <br>
 <p align="left">
-  <a href="https://github.com/quasar-rcciit/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quasar-rcciit&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/belelaritra/Neumorphic_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Neumorphic_Calculator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+<!--   <a href="https://github.com/quasar-rcciit/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quasar-rcciit&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a> -->
+
+<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GDSC-RCCIIT&repo=General-Purpose-Scripts&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/theblockchainchief/web3-hub"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theblockchainchief&repo=web3-hub&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+ <a href="https://github.com/belelaritra/Neumorphic_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Neumorphic_Calculator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
  </p>
     </details>
 

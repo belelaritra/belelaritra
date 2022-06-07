@@ -1,4 +1,4 @@
-## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">
 [![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel%5Faritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belel_aritra)](https://twitter.com/belel_aritra)
@@ -13,7 +13,7 @@
 <a href="https://github.com/belelaritra"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 
-### <img align="bottom" src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width="18px"/> **Languages & Tools:**
+### <img align="bottom" src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width="3%"/> **Languages & Tools:**
 
 <p align = "left">
 <a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/></a>
@@ -69,7 +69,7 @@
 ##
 
 <details open>
-  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>Top Repo's I've contributed to :</b></summary>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="3%"><b>Top Repo's I've contributed to :</b></summary>
 <br>
 <p align="left">
 <a href="https://github.com/quasar-rcciit/HackNPitch_Quasar_DCampus"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quasar-rcciit&repo=HackNPitch_Quasar_DCampus&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
@@ -90,7 +90,7 @@
     </details> -->
   
  <details open>
-  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>My Top Repos :</b></summary>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="3%"><b>My Top Repos :</b></summary>
 <br>
 <p align="left">
  <a href="https://github.com/belelaritra/W-ambulance"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=W-ambulance&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
@@ -101,7 +101,7 @@
     </details>
   
  <details open>
-  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="20px"><b>College Projects :</b></summary>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="3%"><b>College Projects :</b></summary>
 <br>
 <p align="left">
   <a href="https://github.com/belelaritra/Gurukul"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Gurukul&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
@@ -113,7 +113,7 @@
 ##
 
 <details open>
-  <summary><img align="bottom" src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width="18px">&nbsp;<b>Github Stats:</b></summary>
+  <summary><img align="bottom" src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width="3%">&nbsp;<b>Github Stats:</b></summary>
 <br>
 <a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> </a>
 <a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="42%"/></a>
@@ -125,7 +125,7 @@
 ##
 
 <details open>
-   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="25px"> Activity Graph: </b></summary>
+   <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="3%"> Activity Graph: </b></summary>
  <br>
 <p align="center">
   <a href="https://github.com/belelaritra"><img alt="Aritra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=belelaritra&bg_color=000000&color=7DFE02&line=08ACFD&point=FFFFFF" width="80%"/></a>

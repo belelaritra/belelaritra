@@ -1,5 +1,5 @@
 ## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">
-[![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/aritrabelel2001/)
+[![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/belelaritra/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel%5Faritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belelaritra)](https://twitter.com/belelaritra)
 [![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/)
@@ -61,7 +61,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/belelaritra"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24px"/></a>
 <a href="https://twitter.com/belelaritra"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="24px"/></a>
- <a href="https://www.facebook.com/aritrabelel2001"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24px"/></a>
+ <a href="https://www.facebook.com/belelaritra"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24px"/></a>
  <a href="https://www.instagram.com/belelaritra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24px"/></a>
   <a href="https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24px"/></a>
  <p>

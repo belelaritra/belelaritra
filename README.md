@@ -1,7 +1,7 @@
 ## Hi ! I'm [**ARITRA BELEL**](https://github.com/belelaritra) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">
-[![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/belelaritra/)
 [![Linkedin Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/belelaritra/)](https://www.linkedin.com/in/belelaritra/)
 [![Twitter Badge](http://img.shields.io/badge/-@belel%5Faritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belelaritra)](https://twitter.com/belelaritra)
+[![Facebook Badge](https://img.shields.io/badge/-Aritra%20Belel-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/aritrabelel2001/)](https://www.facebook.com/belelaritra/)
 [![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/)
 [![Youtube Badge](https://img.shields.io/badge/-Aritra%20Belel-red?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)](https://www.youtube.com/channel/UCBMMaRwUqbgPyvGkmbxMKDQ)
 [![GitHub followers](https://img.shields.io/github/followers/belelaritra?label=Follow&style=social)](https://github.com/belelaritra/?tab=follow)
@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
- <a href="https://github.com/belelaritra"><img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Wanna+be+a+good+Competitive+Programmer;Learning+CPP+%26+Python+..." /></a>
+ <a href="https://github.com/belelaritra"><img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering%20%20;Passionate+about+becoming+a+Software+Engineer;Core+CS+subjects+are+my+love"/></a>
 <a href="https://github.com/belelaritra"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 
@@ -19,6 +19,7 @@
 <a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/></a>
 <a href="https://isocpp.org/"><img alt="Cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/></a>
+ <a href="https://www.python.org/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="25px"/></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25px"/></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px"/></a>
 <!-- <a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24px"/></a> -->
@@ -106,7 +107,7 @@
 <p align="left">
   <a href="https://github.com/belelaritra/Gurukul"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Gurukul&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/belelaritra/Periodic-table"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Periodic-table&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  
+  <a href="https://github.com/belelaritra/Auto_Certificate_Generator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Auto_Certificate_Generator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
  </p>
     </details>
   
@@ -116,13 +117,13 @@
   <summary><img align="bottom" src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width="3%">&nbsp;<b>Github Stats:</b></summary>
 <br>
 <a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> </a>
-<a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="42%"/></a>
+<a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="38%"/></a>
 <p align="center">
   <a href="https://github.com/belelaritra"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=belelaritra&theme=chartreuse-dark" width="50%"/></a>
   </p>
 </details>
 
-##
+<!-- ##
 
 <details open>
    <summary><b><img align="bottom" src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="3%"> Activity Graph: </b></summary>
@@ -130,7 +131,7 @@
 <p align="center">
   <a href="https://github.com/belelaritra"><img alt="Aritra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=belelaritra&bg_color=000000&color=7DFE02&line=08ACFD&point=FFFFFF" width="80%"/></a>
 </p>
-</details>
+</details> -->
 
 
 <!-- <details > 

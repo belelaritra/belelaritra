@@ -116,8 +116,8 @@
 <details open>
   <summary><img align="bottom" src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width="3%">&nbsp;<b>Github Stats:</b></summary>
 <br>
-<a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> </a>
-<a href="https://github.com/belelaritra"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="38%"/></a>
+<a href="https://github.com/belelaritra"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=belelaritra&show_icons=true&theme=chartreuse-dark&count_private=true" width ="50%"/> </a>
+<a href="https://github.com/belelaritra"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=belelaritra&theme=chartreuse-dark&layout=compact&langs_count=6" width ="40.5%"/></a>
 <p align="center">
   <a href="https://github.com/belelaritra"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=belelaritra&theme=chartreuse-dark" width="50%"/></a>
   </p>

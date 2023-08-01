@@ -10,7 +10,9 @@
 
 <p align="left">
  <a href="https://github.com/belelaritra"><img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering%20%20;Passionate+about+becoming+a+Software+Engineer"/></a>
-<a href="https://aritrabelel.netlify.app/"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
+<!--  ------------------------------------------------- Previous Gif ------------------------------------------------ -->
+<!-- <a href="https://aritrabelel.netlify.app/"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a> -->
+ <a href="https://aritrabelel.netlify.app/"><img align="right" width="24%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzc2VkMzI1eXN4OGpqcnFrYzQ0MjFpcGhhOXZubThvcmhoOGlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" /> </a>
 </p>
 
 ### <img align="bottom" src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width="3%"/> **Languages & Tools:**

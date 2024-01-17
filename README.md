@@ -3,10 +3,11 @@
 [![Twitter Badge](http://img.shields.io/badge/-@belelaritra-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/belelaritra)](https://twitter.com/belelaritra)
 [![Youtube Badge](https://img.shields.io/badge/-@aritrabelel-red?style=social&logo=Youtube&link=https://www.youtube.com/@aritrabelel)](https://www.youtube.com/@aritrabelel)
 [![Facebook Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/belelaritra/)](https://www.facebook.com/belelaritra/)
-[![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/)
 [![GitHub followers](https://img.shields.io/github/followers/belelaritra?label=Follow&style=social)](https://github.com/belelaritra/?tab=follow)
 <a href="https://github.com/belelaritra"><img align="right" src="https://komarev.com/ghpvc/?username=belelaritra&style=flat&color=brightgreen"/></a>
 <br>
+<!-- [![Instagram Badge](https://img.shields.io/badge/-belelaritra-blue?style=social&logo=Instagram&link=https://www.instagram.com/belelaritra/)](https://www.instagram.com/belelaritra/) -->
+
 
 <p align="left">
  <a href="https://github.com/belelaritra"><img src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&width=600&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering%20%20;Passionate+about+becoming+a+Software+Engineer"/></a>
@@ -21,7 +22,7 @@
 <a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/></a>
 <a href="https://isocpp.org/"><img alt="Cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/></a>
- <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="25px"/></a>
+<!--  <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="25px"/></a> -->
 <a href="https://html.spec.whatwg.org/multipage/"><img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25px"/></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px"/></a>
 <!-- <a href="https://www.javascript.com/"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24px"/></a> -->
@@ -66,8 +67,8 @@
 <a href="https://twitter.com/belelaritra"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="24px"/></a>
  <a href="https://www.youtube.com/@aritrabelel"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24px"/></a>
  <a href="https://www.facebook.com/belelaritra"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24px"/></a>
- <a href="https://www.instagram.com/belelaritra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24px"/></a>
  <p>
+<!--  <a href="https://www.instagram.com/belelaritra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24px"/></a> -->
 
 ##
 
